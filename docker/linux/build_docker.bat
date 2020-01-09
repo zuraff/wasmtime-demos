@@ -1,0 +1,1 @@
+docker build . -t wasmtime_linux:v1
